@@ -1,0 +1,66 @@
+.container {
+  background-color: #0b4f1d;
+  border-radius: 1px;
+}
+header {
+  height: 200px;
+  background-color: #0f742a;
+  border: 1-px solid black;
+  border-radius: 4px;
+}
+h1 {
+  box-shadow: 0 4px 0 rgba(214, 214, 214, 0.5);
+}
+
+.navbar {
+  background-color: #0f742a;
+  border-radius: 4px;
+  padding: 1.75rem;
+}
+.nav-item {
+  font-size: 1.25em;
+  background-color: #359b50;
+  padding: 1.25rem;
+  border-radius: 4px;
+}
+.nav-item:hover {
+  text-decoration: none;
+  background-color: #31914a;
+}
+.body {
+  height: 300px;
+  background-color: #0f742a;
+  border-radius: 4px;
+}
+
+.body h3 {
+  text-decoration: underline;
+  padding-left: 2.75rem;
+  padding-top: 1rem;
+}
+.list-item {
+  color: rgb(199, 196, 196);
+  padding-left: 4.5rem;
+  padding-top: 0.25rem;
+}
+
+.card-body {
+  width: 175px;
+}
+.pictures {
+  padding-left: 20px;
+  align-items: center;
+  border-radius: 4px;
+  background-color: #0f742a;
+  justify-content: space-evenly;
+}
+.footer {
+  height: 250px;
+  background-color: #0f742a;
+}
+.body p {
+  color: white;
+  line-height: 1.5rem;
+  margin-top: 2rem;
+  margin: 2rem 1rem;
+}
